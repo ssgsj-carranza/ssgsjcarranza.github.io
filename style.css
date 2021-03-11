@@ -7,12 +7,12 @@
 }
 
 body {
-    background: #1a1918;
+    background: #c2c2c2;
     font-family: "Baloo Tamma 2", cursive;
 }
 
 .bg-grey {
-    background-color: #a5b6c7;
+    background-color: #ffffff;
 }
 
 
@@ -36,3 +36,23 @@ body {
     color:black;
 }
 
+
+.content-footer {
+    margin: 50px 0;
+    padding: 20px 0;
+    text-align: center;
+    background-color: #54acc7;
+    text-decoration: none;
+}
+
+.social > li {
+    display: inline-block;
+    margin: 0 5px;
+  }
+  .content-footer > p {
+    color: #000000;
+  }
+  a {
+      font-weight: bold;
+      text-decoration: none;
+      color: #f7be06;
